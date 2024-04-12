@@ -23,5 +23,5 @@ Enlace a mi Portfolio en Domestika: [Portfolio](https://www.domestika.org/es/luc
 
 ## Cursos realizados
 
-- [Curso de Introducción a la programación en JavaScript](Domestika/Curso%20de%20introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20en%20Javascript)
-    - [Notas del curso](Domestika/Curso%20de%20introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20en%20Javascript/notas.md)
+- [Curso de Introducción a la programación en JavaScript](Curso-de-introducción-a-la-programación-en-Javascript)
+    - [Notas del curso](Curso-de-introducción-a-la-programación-en-Javascript/notas.md)

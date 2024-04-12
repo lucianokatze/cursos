@@ -12,4 +12,4 @@ Los cursos están primero agrupados por la plataforma en la cuál hago el curso 
 
 - Enlaces de interés: [Domestika](https://www.domestika.org/)
 - Cursos realizados:
-  - Iniciado día 11/04/2024 - [Curso de Introducción a la programación en JavaScript](Domestika/curso-introduccion-programacion-javascript)
+  - Iniciado día 11/04/2024 - [Curso de Introducción a la programación en JavaScript](Domestika/Curso-de-introducción-a-la-programación-en-Javascript)
